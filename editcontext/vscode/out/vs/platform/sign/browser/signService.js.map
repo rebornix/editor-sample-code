@@ -1,0 +1,1 @@
+{"version":3,"file":"signService.js","sourceRoot":"file:///C:/Users/penlv/code/vscode/src","sources":["vs/platform/sign/browser/signService.ts"],"names":[],"mappings":"AAAA;;;gGAGgG;;;;;;;;;;;;IAKhG,MAAa,WAAW;QAIjB,IAAI,CAAC,KAAa;;gBACvB,OAAO,OAAO,CAAC,OAAO,CAAC,QAAQ,CAAC,cAAc,CAAC,gCAAgC,CAAE,CAAC,YAAY,CAAC,eAAe,CAAE,CAAC,CAAC;YACnH,CAAC;SAAA;KACD;IAPD,kCAOC"}

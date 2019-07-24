@@ -1,0 +1,1 @@
+{"version":3,"file":"package.js","sourceRoot":"file:///C:/Users/penlv/code/vscode/src","sources":["vs/platform/product/node/package.ts"],"names":[],"mappings":"AAAA;;;gGAGgG;;;;IAUhG,MAAM,QAAQ,GAAG,IAAI,CAAC,OAAO,CAAC,0BAAoB,CAAC,OAAO,EAAE,EAAE,CAAC,CAAC,CAAC;IACjE,MAAM,eAAe,GAAG,IAAI,CAAC,IAAI,CAAC,QAAQ,EAAE,cAAc,CAAC,CAAC;IAC5D,kBAAe,OAAO,CAAC,gBAAgB,CAAC,eAAe,CAA0B,CAAC"}

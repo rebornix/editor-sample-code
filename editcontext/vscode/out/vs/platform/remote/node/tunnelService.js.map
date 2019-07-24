@@ -1,0 +1,1 @@
+{"version":3,"file":"tunnelService.js","sourceRoot":"file:///C:/Users/penlv/code/vscode/src","sources":["vs/platform/remote/node/tunnelService.ts"],"names":[],"mappings":"AAAA;;;gGAGgG;;;;IAKhG,MAAa,aAAa;QAGzB;QAEA,CAAC;QAED,UAAU,CAAC,UAAkB;YAC5B,OAAO,SAAS,CAAC;QAClB,CAAC;KACD;IAVD,sCAUC;IAED,8BAAiB,CAAC,uBAAc,EAAE,aAAa,CAAC,CAAC"}
