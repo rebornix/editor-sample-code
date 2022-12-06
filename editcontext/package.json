@@ -22,7 +22,7 @@
     "event-stream": "3.3.4",
     "gulp": "^4.0.0",
     "gulp-typedoc": "^2.2.2",
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "monaco-css": "2.5.0",
     "monaco-editor-core": "0.16.1",
     "monaco-html": "2.5.0",
